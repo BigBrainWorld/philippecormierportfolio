@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://BigBrainWorld.github.io/philippecormierportfolio/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://BigBrainWorld.github.io/philippecormierportfolio/pages/lab1/</loc>
   </url><url>
     <loc>https://BigBrainWorld.github.io/philippecormierportfolio/categories/</loc>
+  </url><url>
+    <loc>https://BigBrainWorld.github.io/philippecormierportfolio/pages/</loc>
   </url><url>
     <loc>https://BigBrainWorld.github.io/philippecormierportfolio/tags/</loc>
   </url>
